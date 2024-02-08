@@ -2,7 +2,7 @@
 
 ***Hashing in blockchain is a cryptographic process which takes an input (such as text) and turns it into an output of fixed length and structure known as the 'hash value'. It is always the same length and one-way, meaning it cannot be reversed.***
 
-**use cases**
+**use cases:-**
     
    ****Hashing is primarily used for security purposes, and specifically those in cybersecurity. Ahashed 
      value has many uses, but it’s primarily meant to encode a plaintext value so the enclosed 
@@ -11,13 +11,13 @@
 
 # Key Takeaways
 
-***Hashing in blockchain is a cryptographic process used to generate digital fingerprints for secure transaction verification and password storage.***
+- ***Hashing in blockchain is a cryptographic process used to generate digital fingerprints for secure transaction verification and password storage.***
 
 
-***Hash functions are essential components of the Proof of Work consensus algorithm, providing security and stability to blockchain networks.***
+- ***Hash functions are essential components of the Proof of Work consensus algorithm, providing security and stability to blockchain networks.***
 
 
-***Bitcoin’s energy intensive mining has raised concerns about its environmental impact while Ethereum’s move to a Proof of Stake consensus leads to reduced energy consumption with lower carbon footprint.***
+- ***Bitcoin’s energy intensive mining has raised concerns about its environmental impact while Ethereum’s move to a Proof of Stake consensus leads to reduced energy consumption with lower carbon footprint.***
 
 
 
