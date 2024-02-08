@@ -40,4 +40,4 @@
 
   SOURCES OF GIVEN DATA ARE FROM:[Javatpoint.com](https://www.javatpoint.com/blockchain-tutorial)
   
-                                 [101blockchains.com](https://101blockchains.com/blockchain-fundamentals-presentation/)
+  [101blockchains.com](https://101blockchains.com/blockchain-fundamentals-presentation/)
