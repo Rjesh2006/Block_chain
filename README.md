@@ -1,4 +1,3 @@
-## "Blockchain Essentials:
 
 # Blockchain Definition:
 - **Ledger:** A constantly growing file recording all transactions.
@@ -38,3 +37,6 @@
 - **Scalability:** Efficiently handling large transaction volumes.
 - **Interoperability:** Ensuring communication between different blockchains.
 - **Security:** Protecting against attacks and vulnerabilities.
+
+  SOURCES OF GIVEN DATA ARE FROM:[Javatpoint.com](https://www.javatpoint.com/blockchain-tutorial)
+                                 [101blockchains.com](https://101blockchains.com/blockchain-fundamentals-presentation/)
