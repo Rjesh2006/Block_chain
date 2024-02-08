@@ -25,15 +25,6 @@ Data is stored in blocks which are linked to the previous block.**
 - **Consensus:** Agreement among participants on valid transactions.
 - **Faster Settlement:** Accelerated trade settlement due to agreed-upon data.
 
-# Consensus Mechanisms:
-- **Proof of Work (PoW):** Miners solve puzzles to validate transactions.
-  
-- **Proof of Stake (PoS):** Validators chosen based on cryptocurrency holdings.
-  
-- **Delegated Proof of Stake (DPoS):** Limited delegates validate transactions.
-  
-- **Byzantine Fault Tolerance (BFT):** Focus on consensus despite faulty nodes.
-
 
 # Public vs. Private Blockchains:
 - **Public:** Open, transparent, and decentralized (e.g., Bitcoin, Ethereum).
