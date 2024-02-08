@@ -2,11 +2,15 @@
 
 
 # Blockchain Definition:
-- **Ledger:** A constantly growing file recording all transactions.
-- **Permanent:** Transactions are permanently recorded once added to the blockchain.
-- **Secure:** Advanced cryptography ensures data remains locked within the blockchain.
-- **Chronological:** Transactions occur in sequence, building upon each other.
-- **Immutable:** Ledger entries cannot be changed once added.
+**A Blockchain is a method of storing data. 
+Data is stored in blocks which are linked to the previous block.**
+
+
+![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/80c4ba3c-d91b-4e4c-981c-4a50b7352bd8)
+
+
+
+
 
 # Use Cases:
 - **Cryptocurrencies:** Primary use as a distributed ledger for digital currencies.
