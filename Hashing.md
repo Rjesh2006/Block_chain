@@ -71,4 +71,4 @@ Hashing in blockchain implies the transformation of input data into a fixed size
 
      
 
-     Sources :[Hackernoon.com](https://hackernoon.imgix.net/hn-images/1*RYul-eUCR7irpT98XrylLg.png)
+     Sources :[Hackernoon.com](https://hackernoo)
