@@ -12,6 +12,13 @@
 # Key Takeaways
 
 - ***Hashing in blockchain is a cryptographic process used to generate digital fingerprints for secure transaction verification and password storage.***
+- eg:--
+-
+  Each “block” contains
+
+Data of transactions
+A unique fingerprint for all the data in the block called a hash
+A hash of the previous block’s data
 
 
 - ***Hash functions are essential components of the Proof of Work consensus algorithm, providing security and stability to blockchain networks.***
