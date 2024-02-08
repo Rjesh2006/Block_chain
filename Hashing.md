@@ -14,7 +14,7 @@
 - ***Hashing in blockchain is a cryptographic process used to generate digital fingerprints for secure transaction verification and password storage.***
 - eg:--![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/2f7bef4e-81c0-4789-a3af-544cd2783f35)
 
-***Each “block” contains*
+***Each “block” contains***
 - Data of transactions
 - A unique fingerprint for all the data - in the block called a hash
 - A hash of the previous block’s data
@@ -51,10 +51,15 @@ image:-![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/d263eb
 image![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/cffdef54-8fff-4514-9534-8725d618e61c)
 
 
+
+
 - ***Hash functions are essential components of the Proof of Work consensus algorithm, providing security and stability to blockchain networks.***
 
 
+
+
 - ***Bitcoin’s energy intensive mining has raised concerns about its environmental impact while Ethereum’s move to a Proof of Stake consensus leads to reduced energy consumption with lower carbon footprint.***
+
 
 
 
