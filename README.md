@@ -1,6 +1,6 @@
 
 
-# Blockchain Definition:
+# Blockchain Definition # (in simple term):
 **A Blockchain is a method of storing data. 
 Data is stored in blocks which are linked to the previous block.**
 
