@@ -1,6 +1,6 @@
 ## Hashing
 
-***Hashing is the practice of transforming a given key or string of characters into another value for the purpose of security. Unlike standard encryption, hashing is always used for one-way encryption, and hashed values are very difficult to decode.***
+***Hashing in blockchain is a cryptographic process which takes an input (such as text) and turns it into an output of fixed length and structure known as the 'hash value'. It is always the same length and one-way, meaning it cannot be reversed.***
 
   - **use cases**
     
