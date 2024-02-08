@@ -1,3 +1,4 @@
+https://www.investopedia.com/thmb/wuuss_5lSKqGckNngtP1__7qEk4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Blockchain_final-086b5b7b9ef74ecf9f20fe627dba1e34.png\
 
 # Blockchain Definition:
 - **Ledger:** A constantly growing file recording all transactions.
