@@ -31,7 +31,7 @@
 
 # Public vs. Private Blockchains:
 - **Public:** Open, transparent, and decentralized (e.g., Bitcoin, Ethereum).
-- **Private:** Restricted access, controlled by a single entity (e.g., for enterprise use).
+- **Private:** Restricted access controlled by a single entity (e.g., for enterprise use).
 
 # Blockchain Challenges:
 - **Scalability:** Efficiently handling large transaction volumes.
