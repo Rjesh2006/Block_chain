@@ -21,6 +21,8 @@
 
 
 
+***Understanding Hashing in Blockchain
+Hashing in blockchain implies the transformation of input data into a fixed size output through a specific algorithm. It establishes data integrity***
 
 ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/abda5d20-9fc1-4ae8-8831-d632d45098ad)
 
