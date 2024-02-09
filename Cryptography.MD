@@ -4,7 +4,6 @@
 Cryptography serves as the bedrock of blockchain security. It equips us with the essential tools to encrypt data, record transactions, and enable secure communication—all without relying on a central authority. Let's explore this intricate domain in detail:
 
 
-
 1. **Purpose of Cryptography in Blockchain**:
    - **Securing Transactions**: Cryptography ensures that transactions between nodes within a blockchain network remain confidential and tamper-proof.
    - **Double-Spending Prevention**: It safeguards against fraudulent double-spending by verifying transaction authenticity.
