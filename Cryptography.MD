@@ -23,6 +23,8 @@ Cryptography serves as the bedrock of blockchain security. It equips us with the
    - **Digital Signatures**: Every transaction recorded on the blockchain is signed by the sender using a digital signature. This ensures data integrity and prevents corruption.
 
 
+
+
 4. **Benefits of Cryptography in Blockchain**:
    - **Immutability**: Cryptography ensures that once data is added to the blockchain, it cannot be altered or removed.
 
