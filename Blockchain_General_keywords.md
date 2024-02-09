@@ -2,6 +2,7 @@
 
 
 
+
 1. **Elliptic Curve**: A type of mathematical curve used in cryptography for generating cryptographic keys and protocols.
 
 2. **Violet Adrus**: This term doesn't seem to correspond to a known concept in cryptography or networking. It might be a misspelling or a specific term from a particular context.
