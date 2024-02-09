@@ -100,3 +100,14 @@
       - Proof of Space (PoSpace): Utilizes unused storage space on devices to validate transactions and create new blocks.
 
 This version provides additional spacing between each sub-point for better readability.
+
+
+[sources: builtin.com](https://builtin.com/blockchain/consensus-mechanism)
+
+[sources: Coindesk..com](https://www.coindesk.com/learn/what-is-a-consensus-mechanism/)
+
+[sources:investopedia.com](https://www.investopedia.com/terms/c/consensus-mechanism-cryptocurrency.asp)
+
+
+
+
