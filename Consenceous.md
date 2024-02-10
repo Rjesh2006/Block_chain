@@ -66,7 +66,7 @@
 - Continues to power the largest market share of public blockchains.
 
 
-        - work flow :-- ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/a4d2706a-2640-467a-a006-47f8d2c629ed)
+  - work flow :-- ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/a4d2706a-2640-467a-a006-47f8d2c629ed)
 
 ## . Proof of Stake (PoS)
 - **Validator Selection:** 
