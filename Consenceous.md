@@ -1,7 +1,7 @@
 
 ### Consensus Mechanisms in Blockchain
 
-# . Consensus Mechanism
+***. Consensus Mechanism***
 - **Definition:** The process by which nodes in a decentralized network agree on the validity of transactions and the order in which they are added to the blockchain.
 - **Importance:** Ensures synchronization and consistency across the network.
 - **Types:** Various mechanisms exist with different approaches to achieving agreement.
