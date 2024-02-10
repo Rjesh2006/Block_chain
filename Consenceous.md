@@ -100,7 +100,7 @@
 - ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/b8e88404-6eb5-43e7-8520-86a2ccf2e3cd)
 
 
-    # How DPoS Works:
+    ***How DPoS Works:***
     
     1. **Stakeholder Participation**: Stakeholders vote for delegates they trust.
     
@@ -118,12 +118,12 @@
    ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/8100d186-d66a-4726-a952-00611a368464)
 
 
-    # DPoS vs PoS vs PoW:
+    ***DPoS vs PoS vs PoW:***
     
     - **Comparison**: DPoS eliminates energy-intensive mining (PoW) and enhances 
         efficiency over PoS.
 
-    # Advantages and Limitations:
+    ***Advantages and Limitations:***
     
     **Pros**:
     
@@ -138,22 +138,22 @@
     - **Decentralization Concerns**: Limited number of delegates may reduce 
         decentralization.
     
-    # Is DPoS Better than Alternatives?
+    ***Is DPoS Better than Alternatives?***
     
     - DPoS offers efficiency and scalability, but the choice depends on project needs.
 
 
 ##  Practical Byzantine Fault Tolerance (pBFT) in Blockchain Consensus
 
-     # Overview:
+  ***Overview:***
     
-      - **Definition**: pBFT is a form of Byzantine Fault Tolerant (BFT) algorithm used 
+  - **Definition**: pBFT is a form of Byzantine Fault Tolerant (BFT) algorithm used 
           in some blockchains for achieving consensus.
       - **Purpose**: Ensures network reliability even in the presence of faulty or malicious nodes.
       - **Origins**: Based on the Byzantine Generals' Problem (BGP), a thought experiment 
           in distributed systems.
 
-    ## Byzantine Generals' Problem (BGP):
+    ***Byzantine Generals' Problem (BGP):***
     
       - **Definition**: Thought experiment describing the challenge of achieving consensus among distrusting actors.
       - **Scenario**: Set of Byzantine generals laying siege to a city, needing to agree 
@@ -161,7 +161,7 @@
       - **Challenge**: Ensuring consensus despite the presence of traitorous generals 
           manipulating messages.
 
-     # Byzantine Fault Tolerance in Blockchain:
+     ***Byzantine Fault Tolerance in Blockchain:***
     
     - **Application**: BFT and pBFT algorithms are commonly used in blockchain consensus mechanisms.
     - **Challenge**: Blockchain networks face the task of achieving consensus among untrusted nodes.
@@ -173,7 +173,7 @@
 - **Improvements**: Reduces the need for direct communication between every pair of nodes in the network.
 - **Consensus Process**: Involves a leader proposing a block, which is then validated by other nodes before finalization.
 
-     # Advantages and Disadvantages:
+     ***Advantages and Disadvantages:***
     
       **Advantages**:
     
@@ -191,7 +191,7 @@
        - Sybil Attacks: Vulnerable to attacks where an attacker controls multiple nodes 
          to manipulate consensus.
     
-     # Achieving Consensus with pBFT:
+     ***Achieving Consensus with pBFT:***
     
      - **Combination with Other Algorithms**: Often used alongside other consensus 
          algorithms to address scalability and centralization concerns.
