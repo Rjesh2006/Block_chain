@@ -1,6 +1,6 @@
 
 
-# Blockchain Definition:
+# Blockchain :--
 **In simple term a (Blockchain) is a method of storing data. 
 Data is stored in blocks which are linked to the previous block.**
 
@@ -11,13 +11,13 @@ Data is stored in blocks which are linked to the previous block.**
 
 
 
-# Use Cases:
+***Use Cases:***
 - **Cryptocurrencies:** Primary use as a distributed ledger for digital currencies.
   
 - **Business Applications:** Promising in various sectors like banking, finance, healthcare, etc.
 
 
-# Key Features:
+ ***Key Features:***
 - **Immutability:** Ledger entries are permanent and unalterable.
 - **Distributed:** All participants have a copy of the ledger for transparency.
 - **Decentralized:** No central authority controls the network.
@@ -26,12 +26,12 @@ Data is stored in blocks which are linked to the previous block.**
 - **Faster Settlement:** Accelerated trade settlement due to agreed-upon data.
 
 
-# Public vs. Private Blockchains:
+ ***Public vs. Private Blockchains:***
 - **Public:** Open, transparent, and decentralized (e.g., Bitcoin, Ethereum).
   
 - **Private:** Restricted access controlled by a single entity (e.g., for enterprise use).
 
-# Blockchain Challenges:
+***Blockchain Challenges:***
 - **Scalability:** Efficiently handling large transaction volumes.
   
 - **Interoperability:** Ensuring communication between different blockchains.
