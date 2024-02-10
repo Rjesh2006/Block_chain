@@ -20,7 +20,7 @@
 
 ## Proof-of-Work (PoW) in Blockchain:-
 
-# Overview:
+***Overview:***
 
 - **Definition**: PoW incentivizes network validation by rewarding miners for adding computational power.
 - **Market Share**: Represents about 60% of total crypto market capitalization.
