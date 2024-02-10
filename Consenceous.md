@@ -25,24 +25,24 @@
 - **Definition**: PoW incentivizes network validation by rewarding miners for adding computational power.
 - **Market Share**: Represents about 60% of total crypto market capitalization.
 
-# History:
+***History:***
 
 - **Origins**: Originated in 1993 as a solution to deter email spam and DoS attacks.
 - **Key Developments**: Integrated into Hashcash by Adam Black in 1997; later adopted by Satoshi Nakamoto for Bitcoin in 2009.
 
-# How PoW Works:
+***How PoW Works:***
 
 - **Miners**: Validate transactions and add new blocks to the blockchain by solving cryptographic puzzles.
 - **Work**: Computational power expended by miners using the SHA-256 cryptographic hash function.
 - **Difficulty Adjustment**: Ensures a fixed time interval for block validation, approximately every 2,016 blocks.
 
-# Proof-of-Work Examples:
+***Proof-of-Work Examples:***
 
 - **Bitcoin**: World's most secure and decentralized PoW system.
 - **Litecoin**: Often referred to as the silver to Bitcoin's gold, using a similar PoW consensus.
 - **Dogecoin**: Implements PoW technology with roots traceable to Litecoin.
 
-# Advantages and Disadvantages:
+***Advantages and Disadvantages:***
 
 **Advantages**:
 
@@ -54,13 +54,13 @@
 - Slower transaction speed and high fees.
 - Requires high capital and operational expenses compared to newer consensus models.
 
-# Problems with PoW:
+***Problems with PoW:***
 
 - **Energy Usage**: Criticized for its high energy consumption.
 - **Scalability**: Not as efficient at scale as newer consensus models.
 - **Centralization**: Critics argue that PoW systems have become more centralized over time.
 
-# Future Outlook:
+***Future Outlook:***
 
 - PoW remains the most secure option for establishing consensus among decentralized networks.
 - Continues to power the largest market share of public blockchains.
