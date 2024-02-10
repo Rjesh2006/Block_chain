@@ -32,6 +32,9 @@
 
 ***How PoW Works:***
 
+
+  - work flow :-- ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/a4d2706a-2640-467a-a006-47f8d2c629ed)
+
 - **Miners**: Validate transactions and add new blocks to the blockchain by solving cryptographic puzzles.
 - **Work**: Computational power expended by miners using the SHA-256 cryptographic hash function.
 - **Difficulty Adjustment**: Ensures a fixed time interval for block validation, approximately every 2,016 blocks.
@@ -65,8 +68,6 @@
 - PoW remains the most secure option for establishing consensus among decentralized networks.
 - Continues to power the largest market share of public blockchains.
 
-
-  - work flow :-- ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/a4d2706a-2640-467a-a006-47f8d2c629ed)
 
 ## . Proof of Stake (PoS)
 - **Validator Selection:** 
