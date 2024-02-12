@@ -126,6 +126,7 @@
     - Enhances security by requiring participants to prove knowledge of certain data.
 
 11. **Layers of Blockchain (Layer 0-7)**:
+    
 *Layer 1 - Physical Layer*
 - Represents the actual hardware components and physical connections used to transmit data between nodes in the network.
 
