@@ -125,9 +125,38 @@
     - Combines elements of both proof of work and proof of stake to achieve consensus.
     - Enhances security by requiring participants to prove knowledge of certain data.
 
-11. **Layers of Blockchain (Layer 0-4)**:
-    - Layer 1: The underlying blockchain protocol layer responsible for consensus and transaction validation.
-    - Layer 2: Scalability solutions built on top of Layer 1, such as payment channels and sidechains.
+11. **Layers of Blockchain (Layer 0-7)**:
+*Layer 1 - Physical Layer*
+- Represents the actual hardware components and physical connections used to transmit data between nodes in the network.
+
+*Layer 2 - Data Link Layer*
+- Establishes and maintains direct communication between neighboring nodes.
+- Ensures error-free transmission of data packets.
+- Includes protocols for addressing, framing, and error detection.
+
+*Layer 3 - Network Layer*
+- Handles the routing and forwarding of data packets between different nodes.
+- Includes protocols for addressing, routing, and traffic management.
+- Ensures efficient data transmission across the entire network.
+
+*Layer 4 - Transport Layer*
+- Provides end-to-end communication between nodes.
+- Ensures reliable delivery of data packets.
+- Includes protocols for segmentation, reassembly, error recovery, and flow control.
+
+*Layer 5 - Session Layer*
+- Manages the establishment, maintenance, and termination of communication sessions between nodes.
+- Includes protocols for session establishment, synchronization, and checkpointing.
+- Facilitates secure and reliable communication.
+
+*Layer 6 - Presentation Layer*
+- Responsible for the representation and transformation of data exchanged between nodes.
+- Includes protocols for data encryption, compression, and formatting.
+- Ensures compatibility and security.
+
+*Layer 7 - Application Layer*
+- Provides the interface between users and the blockchain network.
+- Includes protocols and applications for user interaction, transactions, and access to decentralized services and applications.
 
 12. **Permissioned and Permissionless Blockchain**:
     - Permissioned: Requires participants to obtain authorization to join the network and validate transactions.
