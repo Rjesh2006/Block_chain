@@ -42,10 +42,12 @@
 
 10. **Session Key**:
     - A temporary encryption key used for securing communications during a single session or transaction.
+      
     - Generated dynamically and discarded after the session ends.
 
 11. **AES (Advanced Encryption Standard)**:
     - AES is a symmetric encryption algorithm widely used for securing sensitive data.
+      
     - Operates on fixed-size blocks of data and supports key lengths of 128, 192, or 256 bits.
 
 12. **QRNG (Quantum Random Number Generator)**:
@@ -70,6 +72,7 @@
 
 17. **P-256 (Elliptic Curve)**:
     - Refers to an elliptic curve defined over a prime field with a 256-bit prime modulus.
+      
     - Widely used in cryptography for secure operations.
 
 18. **Double Ratchet Encryption**:
@@ -89,6 +92,7 @@
 
 22. **Ethereum, Solana, Polygon**:
     - Blockchain platforms with unique features and ecosystems.
+      
     - Ethereum: Smart contract platform.
     - Solana: High throughput and low fees.
     - Polygon (formerly Matic): Improves Ethereum scalability through layer-2 solutions.
@@ -119,6 +123,7 @@
 
 29. **Solana**:
    - Employs a unique consensus mechanism called Proof of History (PoH) for high throughput and low latency.
+     
    - Offers a scalable infrastructure for decentralized applications (dApps) and smart contracts.
 
 30. **PoPK (Proof of Proof of Knowledge)**:
@@ -180,6 +185,7 @@
 
 37. **ENS (Ethereum Name Service)**:
     - Allows users to replace long and complex Ethereum addresses with human-readable names.
+      
     - Facilitates easier identification and interaction with Ethereum-based assets and smart contracts.
 
 38. **NFT (Non-Fungible Token)**:
