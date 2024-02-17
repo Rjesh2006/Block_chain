@@ -19,7 +19,8 @@
 
 **Example (Founder)**: **Bitcoin**
     - **Founder**: **Satoshi Nakamoto** (pseudonymous)
-            ***workflow***
+    ***workflow***
+    
         - ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/701be634-c449-40ec-9a53-09f32d1a843f)
 
        
