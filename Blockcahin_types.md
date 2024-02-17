@@ -1,3 +1,5 @@
+
+![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/0479031d-4a6b-4928-938a-3976b647baac)
 ## 1. **Public Blockchain**:
 
 - **Characteristics**:
@@ -17,7 +19,10 @@
 
 **Example (Founder)**: **Bitcoin**
     - **Founder**: **Satoshi Nakamoto** (pseudonymous)
+            ***workflow***
+        - ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/701be634-c449-40ec-9a53-09f32d1a843f)
 
+       
 ## 2. **Private Blockchain**:
 
 - **Characteristics**:
@@ -37,6 +42,11 @@
 
 **Example (Founder)**: **Hyperledger Fabric**
     - **Founders**: **Linux Foundation**, **IBM**, and other contributors
+    
+ ***workflow***
+   
+- ![image](https://github.com/Rjesh2006/Block_chain/assets/143868643/2bbf74ff-bebe-4bc8-9dc0-7078d7c06074)
+
 
 ## 3. **Consortium Blockchain**:
 
