@@ -69,6 +69,6 @@
 **Example (Founder)**: **Dragonchain**
     - **Founder**: **Joe Roets**
 
-    [Refrence's](https://101blockchains.com/types-of-blockchain/)
+[Refrence's](https://101blockchains.com/types-of-blockchain/)
                 [](https://blog.cfte.education/types-of-blockchain-networks/)
 
