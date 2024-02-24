@@ -334,6 +334,7 @@
   - Provides flexibility in creating custom transactions.
 
 **73. Chomsky Finite Automata (Chomsky Hierarchy)**
+
 - Classification of formal languages based on generative power.
   - Regular languages (Type 3) are simplest.
   - Context-free languages (Type 2) include more complex structures.
