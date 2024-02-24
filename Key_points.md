@@ -314,3 +314,72 @@
 49. **RFC (Request for Comments)**:
     - A publication series by various standards organizations, including the Internet Engineering Task Force (IETF), documenting protocols, procedures, and standards related to the Internet and computer networking.
     - RFCs are widely used as reference documents for implementing and understanding network protocols and technologies.
+   
+**70. Side Chain**
+- Separate blockchain attached to the main blockchain.
+  - Allows for experimentation with new features or applications.
+  - Operates independently but can interact with the main chain.
+  - Enhances scalability and functionality of the main chain.
+
+**71. UTXO (Unspent Transaction Output)**
+- Model used in Bitcoin and other cryptocurrencies.
+  - Tracks spendable transaction outputs.
+  - Helps prevent double spending.
+  - Forms the basis for transaction verification and blockchain security.
+
+**72. Script**
+- Bitcoin transaction scripting language.
+  - Determines spending conditions for funds.
+  - Enables complex transaction scenarios.
+  - Provides flexibility in creating custom transactions.
+
+**73. Chomsky Finite Automata (Chomsky Hierarchy)**
+- Classification of formal languages based on generative power.
+  - Regular languages (Type 3) are simplest.
+  - Context-free languages (Type 2) include more complex structures.
+  - Context-sensitive and recursively enumerable languages are more powerful.
+
+**74. PDA (Pushdown Automaton)**
+- Type of automaton with added stack for memory.
+  - Used for parsing context-free languages.
+  - More expressive than finite automata.
+  - Employed in various parsing and language processing tasks.
+
+**75. Turing Machine (TM)**
+- Theoretical computing machine to understand computation limits.
+  - Consists of a tape, a head, and a set of states.
+  - Can simulate any algorithmic process.
+  - Forms the basis for understanding computability and complexity.
+
+**76. Regex (Regular Expression)**
+- Sequence of characters defining a search pattern.
+  - Used for pattern matching and text processing.
+  - Provides powerful string manipulation capabilities.
+  - Employed in various programming languages and tools.
+
+**77. Master Seed**
+- Single, long random number for generating HD wallets.
+  - Forms the root of the hierarchical deterministic wallet.
+  - Used to derive multiple private keys and addresses.
+  - Provides a backup for wallet recovery.
+
+**78. PRNG Entropy**
+- Entropy used as input for Pseudo-Random Number Generators.
+  - Higher entropy leads to better randomness.
+  - Sources include system randomness and user-provided data.
+  - Critical for cryptographic applications and security.
+
+**79. Types of Bitcoin Wallets**
+- Various forms of storing and managing bitcoins.
+  - Software wallets: Stored on devices like smartphones or computers.
+  - Hardware wallets: Physical devices for offline storage and enhanced security.
+  - Paper wallets: Physical documents containing keys for cold storage.
+  - Brain wallets: Wallets generated from memorable passphrases.
+  - Multisignature wallets: Require multiple signatures for transactions.
+
+**80. Ripple (XRP)**
+- Digital payment protocol and cryptocurrency.
+  - Facilitates fast, low-cost cross-border transactions.
+  - Utilizes a consensus ledger instead of Proof of Work.
+  - Focused on bridging traditional financial systems with blockchain technology.
+
