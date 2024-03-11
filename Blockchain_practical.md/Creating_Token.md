@@ -4,8 +4,6 @@
 
 
 
-
-
 ## Go through with smart contract tool site and fill the required info there and proceed for next:
 
 ### step-1
@@ -17,22 +15,27 @@
 ### step-2
 ![Screenshot (96)](https://github.com/Rjesh2006/Block_chain/assets/143868643/9de56a09-75a0-4c7c-b455-b9b822a2e308)
 
-### step-3
+## now click on creat token then your meta mask wallet will be poop up for transation verificaion :
 
+### step-3
 ![Screenshot (97)](https://github.com/Rjesh2006/Block_chain/assets/143868643/035b18b9-0c25-40a5-9c97-d6eb7e1d8199)
 
+## After verification transaction sucefully processed your token will be sucessfully created :
 
 ### step-4
-
 ![Screenshot (100)](https://github.com/Rjesh2006/Block_chain/assets/143868643/5a71a431-3c13-4a93-b702-afcca238019f)
 
-### step-5
+## Now here you can see your token and transaction details :
 
+### step-5
 ![Screenshot (101)](https://github.com/Rjesh2006/Block_chain/assets/143868643/8d2851cd-b997-40f3-8b3f-cf779480c022)
 
+ ## Aslo you can chek your transation and token as well defined way you can see on **Etherscanner** by putting your wallet adress there :
+ 
 ### step-6
-
 ![Screenshot (102)](https://github.com/Rjesh2006/Block_chain/assets/143868643/17bb571a-bc31-4558-868c-5afcd4472f53)
+
+## Now you can check your wallet the token is stored there:
 
 ### step-7
 
