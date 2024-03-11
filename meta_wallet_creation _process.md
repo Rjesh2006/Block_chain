@@ -33,3 +33,10 @@ Before engaging with real Ethereum networks, it's recommended to practice on tes
 - ### hence you got the ethere's :
 
 7     ![Screenshot (89)](https://github.com/Rjesh2006/Block_chain/assets/143868643/5c9f9b74-06b7-4ef1-87eb-df5fb9375106)
+
+
+- ### Now you can check it on your meta mask wallet eth's are tranferred:
+
+  
+9     ![Uploading Screenshot (91).png…]()
+
