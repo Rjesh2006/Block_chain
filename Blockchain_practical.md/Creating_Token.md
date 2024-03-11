@@ -16,27 +16,20 @@
 
 ![Screenshot (97)](https://github.com/Rjesh2006/Block_chain/assets/143868643/035b18b9-0c25-40a5-9c97-d6eb7e1d8199)
 
+
 ### step-4
-
-![Screenshot (98)](https://github.com/Rjesh2006/Block_chain/assets/143868643/930d5ac7-f58e-4c25-be6d-a02d13d5223e)
-
-### step-5
-
-![Screenshot (99)](https://github.com/Rjesh2006/Block_chain/assets/143868643/39506cb3-02b7-429d-9608-b1fd9156aa92)
-
-### step-6
 
 ![Screenshot (100)](https://github.com/Rjesh2006/Block_chain/assets/143868643/5a71a431-3c13-4a93-b702-afcca238019f)
 
-### step-7
+### step-5
 
 ![Screenshot (101)](https://github.com/Rjesh2006/Block_chain/assets/143868643/8d2851cd-b997-40f3-8b3f-cf779480c022)
 
-### step-8
+### step-6
 
 ![Screenshot (102)](https://github.com/Rjesh2006/Block_chain/assets/143868643/17bb571a-bc31-4558-868c-5afcd4472f53)
 
-### step-9
+### step-7
 
 ![Screenshot (103)](https://github.com/Rjesh2006/Block_chain/assets/143868643/f04e2b5b-0bd9-439f-b0cf-f383ac164335)
 
