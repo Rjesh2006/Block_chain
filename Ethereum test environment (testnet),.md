@@ -22,11 +22,11 @@ Before engaging with real Ethereum networks, it's recommended to practice on tes
 4     ![Screenshot (114)](https://github.com/Rjesh2006/Block_chain/assets/143868643/ba7db137-62cb-4ecc-882b-e943c480c572)
 
 
-- ### now go through for alchemy wsite sign in there :
+- ### now go through for alchemy site sign in there :
 
 5     ![Screenshot (115)](https://github.com/Rjesh2006/Block_chain/assets/143868643/119256f9-0df9-4a05-99f2-35778ad54b04)
 
-- ### now select sepolia ethreum then put your adress there and paste it on send me ETH section :
+- ### now select sepolia ethreum then put your address there and paste it on send me ETH section :
 
 6     ![Screenshot (116)](https://github.com/Rjesh2006/Block_chain/assets/143868643/66cf1dc7-a38d-49d2-bb26-492d8ae30d9d)
 
