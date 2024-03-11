@@ -15,7 +15,7 @@
 ### step-2
 ![Screenshot (96)](https://github.com/Rjesh2006/Block_chain/assets/143868643/9de56a09-75a0-4c7c-b455-b9b822a2e308)
 
-- ## now click on creat token then your meta mask wallet will be poop up for transation verificaion :
+- ## now click on creat token then your meta mask wallet will be pop up for transaction verificaion :
 
 ### step-3
 ![Screenshot (97)](https://github.com/Rjesh2006/Block_chain/assets/143868643/035b18b9-0c25-40a5-9c97-d6eb7e1d8199)
