@@ -3,13 +3,15 @@
 
 
 
-### step-1
-### go through with smart contract tool site and fill the required info there and proceed for next:
+## Go through with smart contract tool site and fill the required info there and proceed for next:
 
+### step-1
 ![Screenshot (95)](https://github.com/Rjesh2006/Block_chain/assets/143868643/6d65a5b3-50c4-48ec-a3d7-c616f169c504)
 
+
+## Now you can see your billing information there and proceed for next:
+
 ### step-2
-### now you can see your billing information there and proceed for next:
 ![Screenshot (96)](https://github.com/Rjesh2006/Block_chain/assets/143868643/9de56a09-75a0-4c7c-b455-b9b822a2e308)
 
 ### step-3
