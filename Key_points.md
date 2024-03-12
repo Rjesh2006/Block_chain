@@ -7,8 +7,8 @@
    - It has properties that make it suitable for encryption, digital signatures, and other cryptographic operations.
 
 2. **wallet address**:
-- A wallet address is a unique string of characters used to send and receive cryptocurrency transactions, derived from the public key and - - - 
-- essential for ownership and transactions in the blockchain network.
+   - A wallet address is a unique string of characters used to send and receive cryptocurrency transactions, derived from the public key and - -   
+   - essential for ownership and transactions in the blockchain network.
   
 
 3. **Public Key**:
