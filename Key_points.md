@@ -429,29 +429,29 @@
 # Blockchain Infrastructure
 
 ### 90. Sidechain
-    - **Description:** Parallel blockchains interoperating with the main blockchain to experiment with new features.
-    - **Use Case:** Provides a testing ground for scalability solutions and innovative features without compromising the main network's stability.
+ - **Description:** Parallel blockchains interoperating with the main blockchain to experiment with new features.
+ - **Use Case:** Provides a testing ground for scalability solutions and innovative features without compromising the main network's stability.
 
 ### 91. Mining-Based Altcoin
-    - **Description:** Altcoins utilizing mining as a consensus mechanism similar to Bitcoin.
-    - **Use Case:** Ensures network security through distributed consensus and incentivizes participation in the network.
+   - **Description:** Altcoins utilizing mining as a consensus mechanism similar to Bitcoin.
+   - **Use Case:** Ensures network security through distributed consensus and incentivizes participation in the network.
 
 # Tokens and Wallets
 
 ### 92. Utility Token
-    - **Description:** Tokens granting access to specific products or services within a blockchain ecosystem.
-    - **Use Case:** Enables decentralized applications (DApps) and incentivizes user engagement within blockchain platforms.
+ - **Description:** Tokens granting access to specific products or services within a blockchain ecosystem.
+ - **Use Case:** Enables decentralized applications (DApps) and incentivizes user engagement within blockchain platforms.
 
 ### 93. Crypto Wallets
-    - **Description:** Software or hardware tools for securely storing and managing cryptocurrency holdings.
-    - **Use Case:** Safely stores private keys and facilitates seamless cryptocurrency transactions for users.
+   - **Description:** Software or hardware tools for securely storing and managing cryptocurrency holdings.
+   - **Use Case:** Safely stores private keys and facilitates seamless cryptocurrency transactions for users.
 
 # Additional Concepts
 
 ### 94. Types of Blocks
-    - **Description:** Different types of blocks within a blockchain, including transaction blocks and empty blocks.
-    - **Use Case:** Organizes and categorizes data within the blockchain, ensuring efficient storage and retrieval of information.
+   - **Description:** Different types of blocks within a blockchain, including transaction blocks and empty blocks.
+   - **Use Case:** Organizes and categorizes data within the blockchain, ensuring efficient storage and retrieval of information.
 
 ### 95. UTXO (Unspent Transaction Output)
-    - **Description:** A model used in Bitcoin and some cryptocurrencies to track unspent transaction outputs.
-    - **Use Case:** Enhances transaction privacy and facilitates efficient transaction validation and management.
+   - **Description:** A model used in Bitcoin and some cryptocurrencies to track unspent transaction outputs.
+   - **Use Case:** Enhances transaction privacy and facilitates efficient transaction validation and management.
