@@ -386,72 +386,55 @@
 
 # Blockchain Concepts
 
-### 81. Genesis Block
-   - **Description:** The inaugural block in a blockchain, marking the inception of the ledger.
-   - **Use Case:** Establishes the initial state of the blockchain, including parameters and system configurations.
+81. **Genesis Block**
+   - *Description*: The inaugural block in a blockchain, marking the inception of the ledger.
+   - *Use Case*: Establishes the initial state of the blockchain, including parameters and system configurations.
 
-### 82. Mempool
-   - **Description:** A pool of unconfirmed transactions awaiting validation and inclusion in a block.
-   - **Use Case:** Facilitates transaction broadcasting and ensures pending transactions are ready for validation.
+82. **Mempool**
+   - *Description*: A pool of unconfirmed transactions awaiting validation and inclusion in a block.
+   - *Use Case*: Facilitates transaction broadcasting and ensures pending transactions are ready for validation.
 
-### 83. Mathematical Puzzle
-   - **Description:** Complex mathematical problems miners must solve to add blocks to the blockchain in Proof of Work systems.
-   - **Use Case:** Provides security by requiring computational effort to validate transactions and secure the network.
+83. **Mathematical Puzzle**
+   - *Description*: Complex mathematical problems miners must solve to add blocks to the blockchain in Proof of Work systems.
+   - *Use Case*: Provides security by requiring computational effort to validate transactions and secure the network.
 
-### 84. Major Events of Cryptography
-   - **Description:** Significant milestones in the evolution of cryptographic techniques and their applications.
-   - **Use Case:** Highlights key advancements shaping the field of cryptography and its relevance to blockchain technology.
+84. **Major Events of Cryptography**
+   - *Description*: Significant milestones in the evolution of cryptographic techniques and their applications.
+   - *Use Case*: Highlights key advancements shaping the field of cryptography and its relevance to blockchain technology.
 
 # Ethereum Specifics
 
-### 85. Ethereum PoS (Proof of Stake)
-   - **Description:** Ethereum's transition from Proof of Work to Proof of Stake consensus mechanism.
-   - **Use Case:** Improves scalability, energy efficiency, and network security by rewarding validators based on their stake in the network.
+85. **Ethereum PoS (Proof of Stake)**
+   - *Description*: Ethereum's transition from Proof of Work to Proof of Stake consensus mechanism.
+   - *Use Case*: Improves scalability, energy efficiency, and network security by rewarding validators based on their stake in the network.
 
-### 86. Ethereum Burns
-   - **Description:** The process of permanently removing ether (ETH) from circulation.
-   - **Use Case:** Manages token supply and potentially increases scarcity, influencing token economics and market dynamics.
+86. **Ethereum Burns**
+   - *Description*: The process of permanently removing ether (ETH) from circulation.
+   - *Use Case*: Manages token supply and potentially increases scarcity, influencing token economics and market dynamics.
 
 # Altcoins and Tokens
 
-### 87. Types of Altcoin and USDP
-   - **Description:** Various types of alternative cryptocurrencies and USD-pegged stablecoins.
-   - **Use Case:** Diversifies investment options and provides alternatives to traditional fiat currencies.
+87. **Types of Altcoin and USDP**
+   - *Description*: Various types of alternative cryptocurrencies and USD-pegged stablecoins.
+   - *Use Case*: Diversifies investment options and provides alternatives to traditional fiat currencies.
 
-### 88. Litecoins (LTC)
-   - **Description:** Peer-to-peer cryptocurrency offering faster transaction times and lower fees than Bitcoin.
-   - **Use Case:** Enables efficient and cost-effective value transfer for everyday transactions.
+88. **Litecoins (LTC)**
+   - *Description*: Peer-to-peer cryptocurrency offering faster transaction times and lower fees than Bitcoin.
+   - *Use Case*: Used for everyday transactions and as a store of value.
 
-### 89. Monero (XMR)
-   - **Description:** Privacy-focused cryptocurrency utilizing advanced cryptographic techniques.
-   - **Use Case:** Protects user privacy by obscuring transaction details, appealing to individuals seeking enhanced anonymity.
+89. **Utility Token**
+    - *Description*: Tokens with specific use cases within a blockchain ecosystem.
+    - *Use Case*: Used for accessing services, voting, or participating in decentralized applications (DApps).
 
-# Blockchain Infrastructure
+90. **Crypto Wallets**
+    - *Description*: Software or hardware tools for securely storing and managing cryptocurrency.
+    - *Use Case*: Enables users to send, receive, and manage their digital assets.
 
-### 90. Sidechain
- - **Description:** Parallel blockchains interoperating with the main blockchain to experiment with new features.
- - **Use Case:** Provides a testing ground for scalability solutions and innovative features without compromising the main network's stability.
+91. **Types of Blocks**
+    - *Description*: Blocks in a blockchain can be categorized as genesis blocks, regular blocks, and forked blocks.
+    - *Use Case*: Each type serves a specific purpose in maintaining the integrity and continuity of the blockchain.
 
-### 91. Mining-Based Altcoin
-   - **Description:** Altcoins utilizing mining as a consensus mechanism similar to Bitcoin.
-   - **Use Case:** Ensures network security through distributed consensus and incentivizes participation in the network.
+92. **UTXO (Unspent Transaction Output)**
+    - *Description*: A model used in Bitcoin and some other cryptocurrencies to track unspent outputs from transactions.
+    - *Use Case*: Ensures accurate balance calculations and prevents double-spending.
 
-# Tokens and Wallets
-
-### 92. Utility Token
- - **Description:** Tokens granting access to specific products or services within a blockchain ecosystem.
- - **Use Case:** Enables decentralized applications (DApps) and incentivizes user engagement within blockchain platforms.
-
-### 93. Crypto Wallets
-   - **Description:** Software or hardware tools for securely storing and managing cryptocurrency holdings.
-   - **Use Case:** Safely stores private keys and facilitates seamless cryptocurrency transactions for users.
-
-# Additional Concepts
-
-### 94. Types of Blocks
-   - **Description:** Different types of blocks within a blockchain, including transaction blocks and empty blocks.
-   - **Use Case:** Organizes and categorizes data within the blockchain, ensuring efficient storage and retrieval of information.
-
-### 95. UTXO (Unspent Transaction Output)
-   - **Description:** A model used in Bitcoin and some cryptocurrencies to track unspent transaction outputs.
-   - **Use Case:** Enhances transaction privacy and facilitates efficient transaction validation and management.
