@@ -6,7 +6,7 @@
    - An elliptic curve is a mathematical curve used in cryptography for generating cryptographic keys and protocols.
    - It has properties that make it suitable for encryption, digital signatures, and other cryptographic operations.
 
-2. *wallet address**:
+2. **wallet address**:
 - A wallet address is a unique string of characters used to send and receive cryptocurrency transactions, derived from the public key and - - - 
 - essential for ownership and transactions in the blockchain network.
   
