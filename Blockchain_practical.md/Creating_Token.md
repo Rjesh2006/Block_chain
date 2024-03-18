@@ -1,12 +1,10 @@
 
-## _Title: Step-by-Step Guide: Creating Tokens on Sepolia Testnet Ethereum:---_
+## _Title: Step-by-Step Guide: Creating Tokens on Sepolia Testnet Ethereum:_
 
 
+## Go through with smart contract tool site and fill the required info there and proceed for next:
 
-
-- ## Go through with smart contract tool site and fill the required info there and proceed for next:
-
-### step-1
+## step-1
 ![Screenshot (95)](https://github.com/Rjesh2006/Block_chain/assets/143868643/6d65a5b3-50c4-48ec-a3d7-c616f169c504)
 
 
