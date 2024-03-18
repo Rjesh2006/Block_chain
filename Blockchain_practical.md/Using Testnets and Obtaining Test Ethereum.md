@@ -1,4 +1,4 @@
-## Using Testnets and Obtaining Test Ethereum
+## _Using Testnets and Obtaining Test Ethereum_
 
 *Before engaging with real Ethereum networks, it's recommended to practice on testnets. Testnets are alternative Ethereum networks specifically designed for testing and development purposes. They provide users with test Ethereum (testnet ETH) that holds no real-world value, allowing experimentation without financial risk.*
 
