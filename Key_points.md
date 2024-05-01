@@ -604,7 +604,4 @@
        - Enhances efficiency and cost-effectiveness.
      - **Governance Structure**:
        - Establishes rules and guidelines for collaboration.
-       - Ensures equitable participation and decision-making.
-
-108. **Camarous**:
-     - Undefined term; no subpoints provided.
+       - Ensures equitable participation and decision-making
