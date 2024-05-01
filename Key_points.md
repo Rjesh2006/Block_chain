@@ -440,3 +440,171 @@
     - *Description*: A model used in Bitcoin and some other cryptocurrencies to track unspent outputs from transactions.
     - *Use Case*: Ensures accurate balance calculations and prevents double-spending.
 
+
+93. **Ledger**:
+   - **Decentralized Record-Keeping**:
+     - No single point of control.
+     - Distributed across network nodes.
+   - **Transaction Data Storage**:
+     - Records all transactions.
+     - Transparent and immutable.
+   - **Trust and Transparency**:
+     - Builds trust among participants.
+     - Provides transparency in transactions.
+
+94. **Hyperledger**:
+   - **Open-Source Collaboration**:
+     - Community-driven development.
+     - Shared knowledge and resources.
+   - **Blockchain Technology Advancement**:
+     - Focuses on enterprise use cases.
+     - Diverse projects catering to various needs.
+   - **Interoperability and Standards**:
+     - Aims for cross-industry compatibility.
+     - Establishes standards for blockchain adoption.
+
+95. **Fabric Ledger**:
+   - **Modular Architecture**:
+     - Pluggable consensus mechanisms.
+     - Allows customization for specific needs.
+   - **Permissioned Network Support**:
+     - Controls access to network resources.
+     - Enhances security and privacy.
+   - **Scalability and Performance**:
+     - Handles high transaction throughput.
+     - Scales efficiently with network growth.
+
+96. **Chaincode**:
+   - **Transaction Logic Definition**:
+     - Determines rules for transactions.
+     - Executed by network peers.
+   - **Smart Contract Equivalent**:
+     - Automated and self-executing.
+     - Enforces business agreements.
+   - **Flexibility and Extensibility**:
+     - Written in various programming languages.
+     - Supports complex transaction scenarios.
+
+97. **Gossip Protocol**:
+   - **Efficient Information Sharing**:
+     - Reduces network bandwidth usage.
+     - Disseminates data rapidly.
+   - **Fault Tolerance**:
+     - Redundant message propagation.
+     - Ensures message delivery in unreliable networks.
+   - **Scalability**:
+     - Scales with network size.
+     - Suitable for large decentralized networks.
+
+98. **Open Agent Policy**:
+   - **Participant Interaction Rules**:
+     - Defines permissions and roles.
+     - Governs data access and sharing.
+   - **System Integrity and Security**:
+     - Prevents unauthorized actions.
+     - Enforces compliance with policies.
+   - **Flexibility and Adaptability**:
+     - Adapts to changing network conditions.
+     - Accommodates diverse participant roles.
+
+99. **Peers**:
+   - **Network Nodes**:
+     - Maintain a copy of the ledger.
+     - Participate in transaction validation.
+   - **Transaction Validation**:
+     - Execute chaincode to verify transactions.
+     - Reach consensus on transaction validity.
+   - **Redundancy and Resilience**:
+     - Redundant copies of ledger data.
+     - Ensures system resilience against failures.
+
+100. **Endorsement Transaction**:
+   - **Peer Validation**:
+     - Peers validate transaction proposals.
+     - Indicate transaction endorsement.
+   - **Consensus Building**:
+     - Ensures agreement on transaction validity.
+     - Required for transaction commitment.
+   - **Transaction Authorization**:
+     - Validates transaction authenticity.
+     - Prevents unauthorized transactions.
+
+101. **Channels**:
+   - **Transaction Segregation**:
+     - Separates transaction flows.
+     - Enables private transactions.
+   - **Privacy and Confidentiality**:
+     - Limits data visibility to channel participants.
+     - Enhances data confidentiality.
+   - **Scalability Enhancement**:
+     - Reduces network congestion.
+     - Improves overall network performance.
+
+102. **Multi-Channel**:
+     - **Isolation of Transactions**:
+       - Each channel operates independently.
+       - Transactions on one channel do not affect others.
+     - **Enhanced Privacy**:
+       - Different channels for different purposes.
+       - Ensures privacy for sensitive transactions.
+     - **Administrative Flexibility**:
+       - Allows network segmentation.
+       - Facilitates diverse use cases within the same network.
+
+103. **Workstate**:
+     - **Task Status Tracking**:
+       - Indicates progress within the network.
+       - Tracks completion of tasks or processes.
+     - **Real-time Updates**:
+       - Provides up-to-date information on task status.
+       - Facilitates collaboration and coordination.
+     - **Workflow Management**:
+       - Organizes tasks into manageable stages.
+       - Streamlines business processes.
+
+104. **LDAP (Lightweight Directory Access Protocol)**:
+     - **Directory Service Access**:
+       - Accesses and maintains directory information.
+       - Retrieves data from distributed directory services.
+     - **Centralized Authentication**:
+       - Standardizes authentication processes.
+       - Simplifies user access management.
+     - **Integration with Applications**:
+       - Provides a common interface for application integration.
+       - Enables seamless access to directory services.
+
+105. **Organization**:
+     - **Network Participants**:
+       - Entities within the blockchain network.
+       - Engage in transactions and interactions.
+     - **Identity Management**:
+       - Defines roles and permissions.
+       - Controls access to network resources.
+     - **Governance and Membership**:
+       - Establishes rules for participation.
+       - Manages membership and participation rights.
+
+106. **System Channel**:
+     - **Default Infrastructure Channel**:
+       - Manages system-level configuration.
+       - Contains system-wide policies.
+     - **Network Bootstrap**:
+       - Initializes network configuration.
+       - Establishes initial network parameters.
+     - **Chaincode Lifecycle Management**:
+       - Handles system-level chaincode.
+       - Manages system channel updates.
+
+107. **Consortium**:
+     - **Collaborative Partnership**:
+       - Group of organizations with shared goals.
+       - Collaborate to achieve mutual benefits.
+     - **Resource Sharing**:
+       - Pooling of resources for common objectives.
+       - Enhances efficiency and cost-effectiveness.
+     - **Governance Structure**:
+       - Establishes rules and guidelines for collaboration.
+       - Ensures equitable participation and decision-making.
+
+108. **Camarous**:
+     - Undefined term; no subpoints provided.
